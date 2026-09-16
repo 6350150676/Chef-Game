@@ -1,0 +1,15 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c8e3c96d7deff4be1b4c10bf6e93b44f, type: 3}
+  m_Name: IngredientFactory
+  m_EditorClassIdentifier: YesChef::YesChef.Ingredients.IngredientFactory
+  ingredientPrefab: {fileID: 3528561074963972313, guid: 847868a99b3524591bfcc5dcc31f2453, type: 3}

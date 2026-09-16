@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b02df294aab2641379447578526e3d7d, type: 3}
+  m_Name: RandomOrderGenerator
+  m_EditorClassIdentifier: YesChef::YesChef.Orders.RandomOrderGenerator
+  ingredientPool:
+  - {fileID: 11400000, guid: 1360ebdbcd75f42f1b9468fc7d6d08bc, type: 2}
+  - {fileID: 11400000, guid: 6fc8573b941504fc6805487226178e78, type: 2}
+  - {fileID: 11400000, guid: 9842f1fddd3954920a7c63b7df699452, type: 2}
+  minIngredients: 2
+  maxIngredients: 3
